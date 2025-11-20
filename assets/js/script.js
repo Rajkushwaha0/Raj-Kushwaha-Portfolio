@@ -139,7 +139,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 }
 
 //typewriter
-const words = ["Frontend Developer", "Backend Developer", "Software Developer"];
+const words = ["Backend Developer", "Frontend Developer", "Software Developer"];
 let wordIndex = 0;
 let charIndex = 0;
 let currentWord = "";
